@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.logituit.player.flutter.logix_player_flutter.app-mergeDebugResources-50:/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CEPL\\.gradle\\caches\\transforms-3\\c4981cb496339bbd738516a49f79da15\\transformed\\preference-1.1.1\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}
